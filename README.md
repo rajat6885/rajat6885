@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @rajat6885
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-# Hi there 👋
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Cplusplus,Java)](https://github.com/prabhatchanchal)
 
-<!---
-rajat6885/rajat6885 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm a computer science Student 👨‍💻
+- 💻 I’m currently working on mobile development technologies like Android, Typescript,React Naive tc.
+- :test_tube: Knowledge of C/C++,Python,Javascript, Java, SQL, NOSQL, Linux and others.
+- 📚 I’m currently learning everything about Frontend, Backend and software development technologies 😅
+- :speech_balloon: Interested in **cybersecurity**!
+- ⚡️ : Coding 🥰
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20,%20Framework&badges=Python,Java,C,Windows,C++,React,,GitHub/Git)](https://github.com/rajat6885)
